@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: pink
+Favorite food: pizza
+Favorite musician/band: taylor swift
+Favorite movie: thor-ragnarok
+Requested grade in the course: 90
